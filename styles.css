@@ -131,14 +131,14 @@ main {
 }
 
 .contact-links a {
-    color: #4CAF50;
+    color: #000; /* Cor preta para os links no rodapé antes de serem clicados */
     text-decoration: none;
     margin: 0 0.5rem;
     transition: color 0.2s;
 }
 
 .contact-links a:hover {
-    color: #0073e6;
+    color: #0073e6; /* Cor azul para hover */
     text-decoration: underline;
 }
 
