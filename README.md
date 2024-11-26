@@ -7,8 +7,8 @@ Bem-vindo ao meu portfólio! Este é um projeto pessoal onde compartilho meus in
 - **index.html**: Página inicial.
 - **about.html**: Página sobre mim.
 - **projects.html**: Página de projetos.
-- **css/styles.css**: Estilos CSS.
-- **js/scripts.js**: Scripts JavaScript.
+- **styles.css**: Estilos CSS.
+- **scripts.js**: Scripts JavaScript.
 - **README.md**: Arquivo com informações do projeto.
 
 ## Tecnologias Usadas
